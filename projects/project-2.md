@@ -1,16 +1,14 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/rubberducky.jpg
 title: Rubber Ducky
 permalink: projects/RubberDucky
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Rubberducky
+  - Keystroke commands
 summary: A keystroke program designed to secure a computer
 ---
 

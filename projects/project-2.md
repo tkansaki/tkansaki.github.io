@@ -12,6 +12,6 @@ labels:
 summary: A keystroke program designed to secure a computer
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/rubberducky.jpg">
 
 This project was a team collabortion for the 2018 STEM Conference cyber security competition. The purpose of the projects was to use a keystroke device called a "rubber ducky" and program it to automatically secure a computer by changing the setting and moving all potentially harmful files to a single file for the useer to look at.

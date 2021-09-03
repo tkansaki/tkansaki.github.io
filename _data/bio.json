@@ -14,7 +14,6 @@
       "countryCode": "USA",
       "region": "Hawaii"
     },
-    {
     "profiles": [
       {
         "network": "github",
@@ -29,7 +28,6 @@
       
     ]
   },
-{
   "interests": [
     {
       "name": "internet of things",
@@ -108,7 +106,7 @@
       ]
     }
   ],
-  "volunteer": []
+  "volunteer": [],
 
   "awards": [
     {

@@ -22,4 +22,6 @@ The game concept we came up with was "Infinite Pacman", where we have a pacman c
 
 The game earned my group an A and we are all quite proud of what we have made.
 
+<a href="https://github.com/tkansaki/tkansaki.github.io/tree/master/projects/Infinite%20Pacman">Source code</a>
+
 

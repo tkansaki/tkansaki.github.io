@@ -12,7 +12,7 @@ labels:
 summary: A game me and my team devoloped for an ICS 111 project.
 ---
 
-<div style:"width: 35%; height: 50%; float: center;">
+<div style="width: 35%; height: 50%; float: center;">
   <img class="ui image" src="../images/Pacman-Game.JPG">
 </div>
 

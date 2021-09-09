@@ -18,7 +18,7 @@ to research or figure out an answer for yourself before asking because questions
 and waiting for an answer is counterproductive when you could have done some research and got the answer yourself.
 <br><br>
 <div>
-    <img src="https://tkansaki.github.io/images/badquestion.JPG" height="75%" width="75%"><br>
+    <img src="https://tkansaki.github.io/images/badquestion.JPG" width="100%"><br>
     <a href="https://stackoverflow.com/questions/69111894/trying-to-figure-out-shop-column-manual-customization-woocommerce">https://stackoverflow.com/questions/69111894/trying-to-figure-out-shop-column-manual-customization-woocommerce</a>
 </div>
 <br>
@@ -29,7 +29,7 @@ know if this is an HTML, Java, c++, or etc. project. Even if I wanted to answer 
 of information.
 <br><br>
 <div>
-    <img src="https://tkansaki.github.io/images/goodquestion.JPG" height="75%" width="75%"><br>
+    <img src="https://tkansaki.github.io/images/goodquestion.JPG" width="100%"><br>
     <a href="https://stackoverflow.com/questions/69111916/increment-an-object-count-variable-by-one-every-time-one-of-the-many-object-met">https://stackoverflow.com/questions/69111916/increment-an-object-count-variable-by-one-every-time-one-of-the-many-object-met</a>
 </div>
 <br>

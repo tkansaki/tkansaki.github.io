@@ -16,9 +16,9 @@ and level of detail you put in your question will be the same amount you get in 
 detail, you will get a generic answer that you probably could have searched yourself or knew already. It is also important to attempt 
 to research or figure out an answer for yourself before asking because questions do not get instantaneous answers. Posting a question 
 and waiting for an answer is counterproductive when you could have done some research and got the answer yourself.
-<br>
+<br><br>
 <div>
-    <img src="https://tkansaki.github.io/images/badquestion.JPG">
+    <img src="https://tkansaki.github.io/images/badquestion.JPG" height="75%" width="75%"><br>
     <a href="https://stackoverflow.com/questions/69111894/trying-to-figure-out-shop-column-manual-customization-woocommerce">https://stackoverflow.com/questions/69111894/trying-to-figure-out-shop-column-manual-customization-woocommerce</a>
 </div>
 <br>
@@ -27,9 +27,9 @@ tried and failed. This question was poorly contrived as it gives little detail o
 not help me visualise what is desired at all. Worst of all, it does not specify what language or platform that is being used. I don't 
 know if this is an HTML, Java, c++, or etc. project. Even if I wanted to answer this question, I don't know if I can with such a lack 
 of information.
-<br>
+<br><br>
 <div>
-    <img src="https://tkansaki.github.io/images/goodquestion.JPG">
+    <img src="https://tkansaki.github.io/images/goodquestion.JPG" height="75%" width="75%"><br>
     <a href="https://stackoverflow.com/questions/69111916/increment-an-object-count-variable-by-one-every-time-one-of-the-many-object-met">https://stackoverflow.com/questions/69111916/increment-an-object-count-variable-by-one-every-time-one-of-the-many-object-met</a>
 </div>
 <br>

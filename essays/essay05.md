@@ -7,7 +7,7 @@ labels:
   - RadGrad
   - Learning
 ---
-<img style="width: 250;" src="https://raw.githubusercontent.com/tkansaki/tkansaki.github.io/master/images/radgrad_logo.png">
+<img style="width: 500px;" src="https://raw.githubusercontent.com/tkansaki/tkansaki.github.io/master/images/radgrad_logo.png">
 In my freshman year at the University of Hawaii at Manoa, radGrad was first introduced to aid students in attaining their computer Science degree. However,
 at the time, the website was not covered all that much and it seemed as if the program was relatively new. Over the next few semesters, I would not use nor 
 even hear about the radGrad program until about three years later when I took ICS 314. 

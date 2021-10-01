@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: Learning radGrad
-date: 2021-09-23
+date: 2021-09-30
 labels:
   - RadGrad
   - Learning

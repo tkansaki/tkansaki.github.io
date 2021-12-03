@@ -14,7 +14,7 @@ we may face the same type of problem for many different programs that we are try
 there is likely a well known solution or technique to help you solve the problem. This gives way to common designs that programs 
 implement and gives birth to common practices such as the use of subclasses in class based programming. Some of these techniques 
 are so common that it is passed off as just a common practice so we may be using someone's design pattern without realizing it. 
-<br>
+<br><br>
 Factory Design Pattern
 <br>
 <img src="https://www.tutorialspoint.com/design_pattern/images/factory_pattern_uml_diagram.jpg">

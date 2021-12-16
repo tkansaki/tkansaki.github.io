@@ -1,4 +1,3 @@
-https://raw.githubusercontent.com/tkansaki/tkansaki.github.io/master/images/Screenshot%20(23).png
 ---
 layout: project
 type: project

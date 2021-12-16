@@ -33,7 +33,7 @@ and conquer strategy where each person in the group gets assigned a section of t
 developer can use to manage group projects. Github allows you to have issue driven projects where each section of the project is put under an 
 issue, then each issue is assigned to someone in the group, then all the different sections can be merged, creating the full project. 
 <br /><br />
-<img src='https://github.githubassets.com/images/modules/open_graph/github-mark.png' />
+<img src='https://github.githubassets.com/images/modules/open_graph/github-mark.png' style='width: 500px;'/>
 <br /><br />
 Github is not only good for group project management, but also for individual project management. It allows you to go back to a previous save 
 point in your project just in case you mess up your project beyond repair. This is a very useful tool for developers because sometimes, you 

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: https://raw.githubusercontent.com/tkansaki/tkansaki.github.io/master/images/Screenshot%20(23).png
+image: images/the-club-for-you.PNG
 title: the-club-for-you
 permalink: projects/the-club-for-you
 # All dates must be YYYY-MM-DD format!

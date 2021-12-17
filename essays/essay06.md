@@ -16,13 +16,13 @@ you know how you yourself think. However, frameworks are files of code written b
 to understand someone else's code. Although it can become tedious to work with because of its nature, it can present a simple 
 solution to create a normal webpage in fewer lines of code.
 
-This is an example of a page buit with a UI Framework:
+This is an example of a page built with a UI Framework:
   
 </p>
 <img style="width: 500px" src="https://raw.githubusercontent.com/tkansaki/tkansaki.github.io/master/images/Screenshot%20(12).png">
 <p>
   
-It's simple but pretty and ony took a few lines of CSS code.
+It's simple but pretty and only took a few lines of CSS code.
 
 Now here is an example of a simple page without the use of UI frameworks:
   
@@ -31,7 +31,7 @@ Now here is an example of a simple page without the use of UI frameworks:
 <img style="width: 500px" src="https://raw.githubusercontent.com/tkansaki/tkansaki.github.io/master/images/Screenshot%20(13).png">
 <p>
   
-This was a small webpage I made in highschool as a project, but as you can see, this relatively simple page took over 400 lines of CSS.
+This was a small web page I made in highschool as a project, but as you can see, this relatively simple page took over 400 lines of CSS.
   
 Frameworks present another set of drawbacks, and that is both it's lack of abilities and freedom. A UI is a set list of style 
 modifications that can only take you so far. There is no possible way that every possibility can be covered by a single framework. 

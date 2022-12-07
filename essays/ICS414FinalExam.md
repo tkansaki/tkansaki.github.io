@@ -29,3 +29,5 @@ working on the same project. Ideally, each member would work on their own file, 
 but were quickly resolved by in person meetings that allowed us to collaborate in person in order to better address these issues. Overall, this experience with 
 collaborating on a project with several different people will prove to be beneficial for the industry that I intend to go into because working with inherited code 
 in a group is an essential part of this field.
+<br />
+<br />
